@@ -1,0 +1,47 @@
+title: Ideco NGFW VPP
+href: index.yaml
+navigation:
+  logo:
+    url: "./index.html"
+    dark:
+      icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
+      text: "Ideco NGFW VPP"
+    light:
+      icon: "https://storage.yandexcloud.net/teamdocs/image.avif"
+      text: "Ideco NGFW VPP"
+  header:
+    leftItems:
+      - type: 'button'
+        theme: "flat"
+        size: "xl"
+        text: "Center"
+        url: "https://common---gh-ajepm934i95oso9d4jgr.viewer.diplodoc.com"
+        target: "_self"
+      - type: 'button'
+        theme: "flat"
+        size: "xl"
+        text: "NGFW"
+        url: "https://common---gh-aje1kb7heutpt4r3om3o.viewer.diplodoc.com"
+        target: "_self"
+      - type: 'button'
+        theme: "flat"
+        size: "xl"
+        text: "MY.IDECO"
+        url: ""
+        target: "_self"
+    rightItems:
+      - type: controls
+      - type: "button"
+        theme: "flat"
+        size: "s"
+        text: 'Скачать PDF'
+        url: 'https://ideco.ru/'
+items: 
+  - name: Об Ideco NGFW VPP
+    href: about.md
+  - name: Быстрый старт 
+    labeled: true
+    include:
+      path: start/toc.yaml
+      mode: link
+

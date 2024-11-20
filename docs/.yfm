@@ -1,1 +1,13 @@
-langs: ['en']
+allowHTML: true
+langs: ['ru']
+
+resources:
+  style:
+    - _assets/style/custom.css
+
+docs-viewer:
+  favicon-src: https://storage.yandexcloud.net/teamdocs/image.avif
+  project-name: ideco vpp
+  no-index: true # Remove this after the public release
+  themes: ['light', 'dark']
+  
